@@ -1,7 +1,7 @@
 {
   "name": "Alpha-wave",
   "version": "0.1.0",
-  "homepage": "https://vlada125.github.io/project-platform",
+  "homepage": "https://vlada125.github.io/project-plat",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.7.16",
