@@ -1,0 +1,34 @@
+.fill-grid {
+  /* width: 100%;
+  height: 600px; */
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  border: 1px solid #E5E5E5;
+}
+
+/* пример настройки заголовка */
+.react-grid-HeaderCell {
+  background-color: #1a202c;
+  color: #a0aec0;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+/* пример настройки ячейки */
+.rdg-cell {
+  background: #fff !important;
+  color: #808080;
+  font-size: 14px;
+  border: 1px solid #E5E5E5;
+  text-align: center;
+}
+
+.rdg-editor-container input {
+  background: #fff !important;
+  text-align: center;
+}
+
+.rdg-header-sort-name {
+  text-align: center;
+}
